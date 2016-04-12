@@ -3,10 +3,10 @@
     - Fonts
     - General CSS
     - Header
-    - Home/portfolio 
-    - Inner page 
-    - Map/Contact page  
-    - Tooltip 
+    - Home/portfolio
+    - Inner page
+    - Map/Contact page
+    - Tooltip
     - Responsive code
     
 */
@@ -97,17 +97,17 @@ h6              { font-size: .75em; margin: 1.67em 0; }
 h1, h2, h3, h4,
 h5, h6          { font-weight: bolder; }
 
-.clearfix:before,  
-.clearfix:after {  
-    content: " ";  
-    display: table;  
-}  
-.clearfix:after {  
-    clear: both;  
-}  
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
  
-.clearfix {  
-    *zoom: 1;  
+.clearfix {
+    *zoom: 1;
 }
 
 .text-center{
@@ -144,7 +144,7 @@ i.fa{
         width: 210px;
         min-height: 100%;
         padding: 0 40px 0 50px;
-        background: #ffffff; 
+        background: #ffffff;
         float: left;
         overflow: hidden;
         z-index: 9999;
@@ -152,9 +152,9 @@ i.fa{
 
     header .logo h1{
 		font-family: 'world_of_waterregular';
-        margin-top: 50px;
+    margin-top: 50px;
 		text-transform: uppercase;
-		font-size: 3.5em;
+		font-size: 3em;
     }
 		header .logo span.blue-font{
 			color: #3a8eb3;
@@ -299,7 +299,7 @@ i.fa{
 	background: url("../img/men_icons.png") no-repeat scroll 0% 0% transparent;
 }
 
-#menu_icon{    
+#menu_icon{
     background-position: 0 0;
 }
 .close_menu{
@@ -351,7 +351,7 @@ i.fa{
     display: block;
     width: 100%;
     height: 100%;
-    top: 0; 
+    top: 0;
     left: 0;
     background: #ffffff;
     opacity: 0;
@@ -418,7 +418,7 @@ p.rate span{
 }
 
 em{
-    font-style: italic; 
+    font-style: italic;
 }
 
 
