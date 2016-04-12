@@ -49,18 +49,17 @@
 <body>
 	<header>
 		<div class="logo">
-			<h1><a href="index.php" title="Steve Mandes"><span class="larger">Steve</span> M<span class="blue-font">a</span>ndes</a></h1>
+			<h1><a href="/" title="Steve Mandes"><span class="larger">Steve</span> M<span class="blue-font">a</span>ndes</a></h1>
 		</div><!-- end logo -->
 		<p>&ldquo;Let's create something amazing&rdquo;</p>
 		
 		<div id="menu_icon"></div>
 		<nav>
 			<ul>
-				<li><a href="index.php">Folio</a></li>
-				<li><a href="about.php">About</a></li>
-				<li><a href="service.php">Hire me</a></li>
-                <li><a href="http://blog.stevemandes.com">Blog</a></li>
-				<li><a href="contact.php">Contact</a></li>
+				<li><a href="/">Folio</a></li>
+				<li><a href="about">About</a></li>
+				<li><a href="service">Hire me</a></li>
+				<li><a href="contact">Contact</a></li>
 			</ul>
 		</nav><!-- end navigation menu -->
 
@@ -73,7 +72,7 @@
 			</ul><!-- end social -->
 
 			<div class="rights">
-				<p>Copyright &copy; 2015 Steve Mandes.</p>
+				<p>Copyright &copy; 2016 Steve Mandes.</p>
 			</div><!-- end rights -->
 		</div ><!-- end footer -->
 	</header><!-- end header -->

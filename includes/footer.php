@@ -7,6 +7,6 @@
 		</ul><!-- end social -->
 
 		<div class="rights">
-			<p>Copyright &copy; 2015 Steve Mandes. <a href="tel:9084203621">908-420-3621</a></p>
+			<p>Copyright &copy; 2016 Steve Mandes. <a href="tel:9084203621">908-420-3621</a></p>
 		</div><!-- end rights -->
 </div ><!-- end footer -->
